@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1504603859,
+	"version": 1504617713,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,7 @@
 		"images/explode-sheet0.png",
 		"images/sanastick-sheet0.png",
 		"images/sanapad-sheet0.png",
+		"images/sprite-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
