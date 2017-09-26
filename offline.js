@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1506407509,
+	"version": 1506412015,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -9,6 +9,8 @@
 		"images/sanastick-sheet0.png",
 		"images/sanapad-sheet0.png",
 		"images/plane-sheet0.png",
+		"images/plane-sheet1.png",
+		"images/plane-sheet2.png",
 		"images/background-sheet0.png",
 		"images/bullet-sheet0.png",
 		"images/tail-sheet0.png",
