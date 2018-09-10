@@ -1,6 +1,6 @@
 ﻿{
-	"name": "打飞机",
-	"short_name": "打飞机",
+	"name": "New project",
+	"short_name": "New project",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
